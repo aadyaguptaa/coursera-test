@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repository
+Hello. This is my GIT HUB first website. 
